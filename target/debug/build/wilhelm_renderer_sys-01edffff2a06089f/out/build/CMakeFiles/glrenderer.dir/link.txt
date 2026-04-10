@@ -1,2 +1,0 @@
-/usr/bin/ar qc libglrenderer.a CMakeFiles/glrenderer.dir/glrenderer.cpp.o CMakeFiles/glrenderer.dir/glad/src/glad.c.o
-/usr/bin/ranlib libglrenderer.a
