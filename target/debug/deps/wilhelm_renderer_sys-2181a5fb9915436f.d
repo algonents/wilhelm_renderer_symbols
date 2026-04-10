@@ -1,0 +1,10 @@
+/home/aludin/Repos/wilhelm_renderer_symbols/target/debug/deps/wilhelm_renderer_sys-2181a5fb9915436f.d: /home/aludin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wilhelm_renderer_sys-0.10.0/src/lib.rs /home/aludin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wilhelm_renderer_sys-0.10.0/src/freetype.rs /home/aludin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wilhelm_renderer_sys-0.10.0/src/glfw.rs /home/aludin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wilhelm_renderer_sys-0.10.0/src/opengl.rs
+
+/home/aludin/Repos/wilhelm_renderer_symbols/target/debug/deps/libwilhelm_renderer_sys-2181a5fb9915436f.rlib: /home/aludin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wilhelm_renderer_sys-0.10.0/src/lib.rs /home/aludin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wilhelm_renderer_sys-0.10.0/src/freetype.rs /home/aludin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wilhelm_renderer_sys-0.10.0/src/glfw.rs /home/aludin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wilhelm_renderer_sys-0.10.0/src/opengl.rs
+
+/home/aludin/Repos/wilhelm_renderer_symbols/target/debug/deps/libwilhelm_renderer_sys-2181a5fb9915436f.rmeta: /home/aludin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wilhelm_renderer_sys-0.10.0/src/lib.rs /home/aludin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wilhelm_renderer_sys-0.10.0/src/freetype.rs /home/aludin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wilhelm_renderer_sys-0.10.0/src/glfw.rs /home/aludin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wilhelm_renderer_sys-0.10.0/src/opengl.rs
+
+/home/aludin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wilhelm_renderer_sys-0.10.0/src/lib.rs:
+/home/aludin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wilhelm_renderer_sys-0.10.0/src/freetype.rs:
+/home/aludin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wilhelm_renderer_sys-0.10.0/src/glfw.rs:
+/home/aludin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wilhelm_renderer_sys-0.10.0/src/opengl.rs:

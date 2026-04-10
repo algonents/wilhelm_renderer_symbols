@@ -1,0 +1,145 @@
+cargo:rerun-if-changed=cpp/CMakeLists.txt
+cargo:rerun-if-changed=cpp/src/glrenderer.cpp
+cargo:rerun-if-changed=cpp/include/glrenderer.h
+CMAKE_TOOLCHAIN_FILE_x86_64-unknown-linux-gnu = None
+CMAKE_TOOLCHAIN_FILE_x86_64_unknown_linux_gnu = None
+HOST_CMAKE_TOOLCHAIN_FILE = None
+CMAKE_TOOLCHAIN_FILE = None
+CMAKE_GENERATOR_x86_64-unknown-linux-gnu = None
+CMAKE_GENERATOR_x86_64_unknown_linux_gnu = None
+HOST_CMAKE_GENERATOR = None
+CMAKE_GENERATOR = None
+CMAKE_PREFIX_PATH_x86_64-unknown-linux-gnu = None
+CMAKE_PREFIX_PATH_x86_64_unknown_linux_gnu = None
+HOST_CMAKE_PREFIX_PATH = None
+CMAKE_PREFIX_PATH = None
+CMAKE_x86_64-unknown-linux-gnu = None
+CMAKE_x86_64_unknown_linux_gnu = None
+HOST_CMAKE = None
+CMAKE = None
+-- The C compiler identification is GNU 14.3.1
+-- The CXX compiler identification is GNU 14.3.1
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found OpenGL: /usr/lib64/libOpenGL.so
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE
+-- Including Wayland support
+-- Including X11 support
+-- Looking for memfd_create
+-- Looking for memfd_create - found
+-- Found PkgConfig: /usr/bin/pkg-config (found version "2.1.0")
+-- Checking for modules 'wayland-client>=0.2.7;wayland-cursor>=0.2.7;wayland-egl>=0.2.7;xkbcommon>=0.5.0'
+--   Found wayland-client, version 1.23.1
+--   Found wayland-cursor, version 1.23.1
+--   Found wayland-egl, version 18.1.0
+--   Found xkbcommon, version 1.7.0
+-- Found X11: /usr/include
+-- Looking for XOpenDisplay in /usr/lib64/libX11.so;/usr/lib64/libXext.so
+-- Looking for XOpenDisplay in /usr/lib64/libX11.so;/usr/lib64/libXext.so - found
+-- Looking for gethostbyname
+-- Looking for gethostbyname - found
+-- Looking for connect
+-- Looking for connect - found
+-- Looking for remove
+-- Looking for remove - found
+-- Looking for shmat
+-- Looking for shmat - found
+-- Looking for unistd.h
+-- Looking for unistd.h - found
+-- Looking for fcntl.h
+-- Looking for fcntl.h - found
+-- Configuring done (1.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/aludin/Repos/wilhelm_renderer_symbols/target/debug/build/wilhelm_renderer_sys-01edffff2a06089f/out/build
+[  1%] Generating fractional-scale-v1-client-protocol-code.h
+[  2%] Generating idle-inhibit-unstable-v1-client-protocol-code.h
+[  4%] Generating idle-inhibit-unstable-v1-client-protocol.h
+[  6%] Generating relative-pointer-unstable-v1-client-protocol.h
+[  6%] Generating xdg-shell-client-protocol.h
+[  9%] Generating viewporter-client-protocol-code.h
+[  9%] Generating pointer-constraints-unstable-v1-client-protocol.h
+[ 11%] Generating viewporter-client-protocol.h
+[ 13%] Generating fractional-scale-v1-client-protocol.h
+[ 13%] Generating relative-pointer-unstable-v1-client-protocol-code.h
+[ 15%] Generating wayland-client-protocol-code.h
+[ 16%] Generating wayland-client-protocol.h
+[ 18%] Generating pointer-constraints-unstable-v1-client-protocol-code.h
+[ 19%] Generating xdg-activation-v1-client-protocol-code.h
+[ 20%] Generating xdg-decoration-unstable-v1-client-protocol-code.h
+[ 22%] Generating xdg-activation-v1-client-protocol.h
+[ 23%] Generating xdg-decoration-unstable-v1-client-protocol.h
+[ 25%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/src/autofit/autofit.c.o
+[ 26%] Generating xdg-shell-client-protocol-code.h
+[ 29%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/src/base/ftfstype.c.o
+[ 29%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/src/base/ftbase.c.o
+[ 30%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/src/base/ftbbox.c.o
+[ 31%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/src/base/ftbitmap.c.o
+[ 33%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/src/base/ftgasp.c.o
+[ 34%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/src/base/ftinit.c.o
+[ 36%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/src/base/ftglyph.c.o
+[ 37%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/src/base/ftpatent.c.o
+[ 38%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/src/base/ftmm.c.o
+[ 40%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/src/base/ftstroke.c.o
+[ 41%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/context.c.o
+[ 43%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/init.c.o
+[ 44%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/input.c.o
+[ 45%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/src/base/ftsynth.c.o
+[ 47%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/src/cff/cff.c.o
+[ 48%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/src/gzip/ftgzip.c.o
+[ 50%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/src/psaux/psaux.c.o
+[ 51%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/monitor.c.o
+[ 52%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/src/pshinter/pshinter.c.o
+[ 54%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/platform.c.o
+[ 55%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/vulkan.c.o
+[ 56%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/window.c.o
+[ 58%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/src/psnames/psnames.c.o
+[ 59%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/src/raster/raster.c.o
+[ 61%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/egl_context.c.o
+[ 62%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/osmesa_context.c.o
+[ 66%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/src/sfnt/sfnt.c.o
+[ 66%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/src/smooth/smooth.c.o
+[ 66%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/null_init.c.o
+[ 68%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/src/truetype/truetype.c.o
+[ 69%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/null_monitor.c.o
+[ 70%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/null_window.c.o
+[ 72%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/builds/unix/ftsystem.c.o
+[ 73%] Building C object freetype-2.13.2/CMakeFiles/freetype.dir/src/base/ftdebug.c.o
+[ 75%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/posix_module.c.o
+[ 76%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/null_joystick.c.o
+[ 77%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/posix_time.c.o
+[ 79%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/posix_thread.c.o
+[ 80%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/x11_init.c.o
+[ 83%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/x11_monitor.c.o
+[ 83%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/x11_window.c.o
+[ 84%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/xkb_unicode.c.o
+[ 86%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/glx_context.c.o
+[ 87%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/wl_init.c.o
+[ 88%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/wl_monitor.c.o
+[ 90%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/wl_window.c.o
+[ 93%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/linux_joystick.c.o
+[ 93%] Building C object glfw-3.4/src/CMakeFiles/glfw.dir/posix_poll.c.o
+[ 94%] Linking C static library ../../libglfw3.a
+[ 95%] Linking C static library ../libfreetyped.a
+[ 95%] Built target freetype
+[ 95%] Built target glfw
+[ 98%] Building C object CMakeFiles/glrenderer.dir/glad/src/glad.c.o
+[ 98%] Building CXX object CMakeFiles/glrenderer.dir/glrenderer.cpp.o
+[100%] Linking CXX static library libglrenderer.a
+[100%] Built target glrenderer
+cargo:root=/home/aludin/Repos/wilhelm_renderer_symbols/target/debug/build/wilhelm_renderer_sys-01edffff2a06089f/out
+cargo:rustc-link-search=native=/home/aludin/Repos/wilhelm_renderer_symbols/target/debug/build/wilhelm_renderer_sys-01edffff2a06089f/out/build
+cargo:rustc-link-lib=static=glrenderer
+cargo:rustc-link-lib=static=glfw3
+cargo:rustc-link-lib=static=freetyped
+cargo:rustc-link-lib=dylib=GL
+cargo:rustc-link-lib=dylib=stdc++

@@ -1,0 +1,1 @@
+/home/aludin/Repos/wilhelm_renderer_symbols/target/debug/libwilhelm_renderer_symbols.rlib: /home/aludin/Repos/wilhelm_renderer_symbols/src/core.rs /home/aludin/Repos/wilhelm_renderer_symbols/src/lib.rs

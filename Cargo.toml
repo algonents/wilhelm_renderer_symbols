@@ -1,0 +1,13 @@
+[package]
+name = "wilhelm_renderer_symbols"
+version = "0.1.0"
+edition = "2021"
+authors = ["Anwar Ludin <anwar.ludin@algonents.com>"]
+license = "MIT"
+description = "Symbol library for wilhelm_renderer — standard marker shapes organized by theme"
+repository = "https://github.com/algonents/wilhelm_renderer_symbols"
+keywords = ["symbols", "markers", "visualization", "2d", "graphics"]
+categories = ["visualization", "rendering::engine", "graphics"]
+
+[dependencies]
+wilhelm_renderer = "0.10"
